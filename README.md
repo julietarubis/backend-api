@@ -1,4 +1,4 @@
-# Backend-api
+# Backend-API
 # Implement a web API that allows to retrieve maths calculations via an api
 Set up the project
 - Create project directory
